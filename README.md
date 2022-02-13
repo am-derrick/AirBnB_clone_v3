@@ -160,6 +160,6 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Derrick Ampire - {Github}(https://github.com/am-derrick) / [Twitter](https://twitter.com/am_derrick)
 
-Second part of Airbnb: Joann Vuong
+Fourth part of Airbnb: Derrick Ampire
 ## License
 Public Domain. No copy write protection. 
